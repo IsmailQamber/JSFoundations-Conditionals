@@ -12,6 +12,8 @@ if(operator === "+"){
     console.log(FirstNumber - SecondNumber)
 } else if (operator === "/"){
   console.log(FirstNumber / SecondNumber)
+} else if (operator === "*"){
+    console.log(FirstNumber * SecondNumber)
 } else {
     console.log("This operation is not available")
 }
