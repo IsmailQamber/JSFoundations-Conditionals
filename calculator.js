@@ -1,7 +1,7 @@
 // Define the numbers and the operation here
-const FirstNumber = 3;
-const SecondNumber = 5;
-const operator = window.prompt("enter your operations: ");
+const FirstNumber = prompt("enter the first number: ");;
+const SecondNumber = prompt("enter the second number: ");;
+const operator = prompt("enter your operations: ");
 
 // Write if-statements here
 
